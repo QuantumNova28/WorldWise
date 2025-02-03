@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "0a1d",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-30T18:27:12.085Z",
+      "notes": "",
+      "position": {
+        "lat": "40.416923610487345",
+        "lng": "-3.6814886893251413"
+      }
+    },
+    {
+      "id": "cf12",
+      "cityName": "Piedrabuena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-31T06:22:47.832Z",
+      "notes": "",
+      "position": {
+        "lat": "39.20088517764845",
+        "lng": "-4.418460018802178"
+      }
+    }
+  ]
+}
